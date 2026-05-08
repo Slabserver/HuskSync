@@ -101,6 +101,8 @@ $RECYCLE.BIN/
 *.lnk
 
 .gradle
+.project
+.settings
 build/
 
 # Ignore Gradle GUI config
@@ -122,3 +124,6 @@ run/
 # Don't include generated test suite files
 /test/servers/
 /test/HuskSync
+
+# Visual Stuido Code
+.vscode/
